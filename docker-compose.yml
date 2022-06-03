@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    image: rcapptrad
+    image: rcapptradb
     #restart: always
     #build: .
     ports:
